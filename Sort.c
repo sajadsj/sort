@@ -1,6 +1,6 @@
 /*
  * Title: Implement sorting algorithms
- * Project aim: learning algorithm design
+ * Project aim: learning algorithm design & function pointer
  * by: SajadSojoudi@gmail.com
 */
 #define _CRT_SECURE_NO_WARNINGS
